@@ -1,5 +1,5 @@
 This is a simple file.
 
 <cfoutput>
-#now()#
+#dateformat(now(),"mm/dd/yyyy")#
 </cfoutput>
